@@ -25,6 +25,19 @@
   border: 1px solid black;
 }
 
+.column30 {
+  float: left;
+  width: 30%;
+  /* debug */
+  height: 100px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+#middle {
+  margin: 0 5%;
+}
+
 .column50 {
   float: left;
   width: 50%;
@@ -82,6 +95,10 @@ main {
   height: 100px;
   background-color: white;
   border: 1px solid gray;
+}
+
+.hub {
+  margin-top: 15px;
 }
 
 
