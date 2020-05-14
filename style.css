@@ -14,7 +14,6 @@
   content: "";
   display: table;
   clear: both;
-
 }
 
 /* Header */
@@ -25,10 +24,15 @@ header {
   background-color: pink;
 }
 
-.nav-action{
+.nav-action {
   height:70px;
   background-color: gray;
   border-bottom: 1px solid black;
+}
+
+.logo-nav {
+  height: 70px;
+  background-color: white;
 }
 
 /* Main */
