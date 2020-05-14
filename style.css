@@ -10,12 +10,25 @@
   padding: 0 10%;
 }
 
+.column:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
 /* Header */
 
 header {
   min-height: 500px;
   /* debug */
   background-color: pink;
+}
+
+.nav-action{
+  height:70px;
+  background-color: gray;
+  border-bottom: 1px solid black;
 }
 
 /* Main */
