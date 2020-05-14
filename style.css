@@ -10,6 +10,8 @@
   padding: 0 5%;
 }
 
+/* column rules */
+
 .column:after {
   content: "";
   display: table;
@@ -72,11 +74,15 @@ header {
   background-color: pink;
 }
 
+/*sezione 1 */
+
 .nav-action {
   height:70px;
   background-color: gray;
   border-bottom: 1px solid black;
 }
+
+/* sezione 2 */
 
 .logo-nav {
   height: 70px;
@@ -87,15 +93,19 @@ header {
 
 main {
   /* debug */
-  height: 400px;
+  min-height: 400px;
   background-color: blue;
 }
+
+/* sezione 2 */
 
 .free {
   height: 100px;
   background-color: white;
   border: 1px solid gray;
 }
+
+/* sezione 3 */
 
 .hub {
   margin-top: 15px;
