@@ -16,6 +16,15 @@
   clear: both;
 }
 
+.column50 {
+  float: left;
+  width: 50%;
+  /* debug */
+  height: 70px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
 /* Header */
 
 header {
