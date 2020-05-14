@@ -7,13 +7,22 @@
 }
 
 .padding {
-  padding: 0 10%;
+  padding: 0 5%;
 }
 
 .column:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.column20 {
+  float: left;
+  width: 20%;
+  /* debug */
+  height: 100px;
+  background-color: orange;
+  border: 1px solid black;
 }
 
 .column50 {
@@ -23,6 +32,23 @@
   height: 70px;
   background-color: yellow;
   border: 1px solid black;
+}
+
+.column80 {
+  float: left;
+  width: 80%;
+  /* debug */
+  height: 100px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.column100 {
+  float: left;
+  width: 100%;
+  /* debug */
+  height: 100px;
+  background-color: yellow;
 }
 
 /* Header */
@@ -51,6 +77,13 @@ main {
   height: 400px;
   background-color: blue;
 }
+
+.free {
+  height: 100px;
+  background-color: white;
+  border: 1px solid gray;
+}
+
 
 /* Footer */
 
