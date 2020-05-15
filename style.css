@@ -7,7 +7,7 @@
 }
 
 .padding {
-  padding: 0 5%;
+  padding: 0 10%;
 }
 
 a {
@@ -50,7 +50,7 @@ a {
   /* debug */
   height: 70px;
   /* background-color: yellow; */
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 .column80 {
@@ -104,6 +104,13 @@ header {
 #arrow {
   height: 12px;
   margin-left: 5px;
+}
+
+#bar {
+  height: 17px;
+  margin-left: 15px;
+  margin-top: 18px;
+  border-right: 1px solid black;
 }
 
 .language-logo {
