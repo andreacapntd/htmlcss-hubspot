@@ -100,7 +100,7 @@ main {
 /* sezione 2 */
 
 .free {
-  height: 100px;
+  height: 130px;
   background-color: white;
   border: 1px solid gray;
 }
@@ -124,6 +124,14 @@ main {
 .customers {
   /* debug */
   height: 130px;
+  background-color: white;
+}
+
+/* sezione 6 */
+
+.start {
+  /* debug */
+  height: 250px;
   background-color: white;
 }
 
