@@ -16,7 +16,7 @@ a {
 
 /* column rules */
 
-.column:after {
+.column:after, .navbar::after {
   content: "";
   display: table;
   clear: both;
@@ -82,18 +82,19 @@ header {
 
 .nav-action {
   height:70px;
-  background-color: gray;
+  background-color: #f5f8fa;
   border-bottom: 1px solid black;
+}
+
+.navbar li {
+ float: left;
+ list-style-type: none;
+ line-height: 70px;
 }
 
 .language-logo {
   width: 21px;
 }
-
-.navfix ul {
-list-style-type: none;
-}
-
 
 /* sezione 2 */
 
