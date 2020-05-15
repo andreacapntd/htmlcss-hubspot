@@ -115,8 +115,16 @@ main {
 
 .data {
   height: 500px;
-  background-color: #39c4c4; 
+  background-color: #39c4c4;
   margin-top: 15px;
+}
+
+/* sezione 5 */
+
+.customers {
+  /* debug */
+  height: 130px;
+  background-color: white;
 }
 
 
