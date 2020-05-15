@@ -92,8 +92,23 @@ header {
  line-height: 70px;
 }
 
+#language {
+  line-height: 50px;
+  font-size: 20px;
+}
+
+#format {
+  color: black;
+}
+
+#arrow {
+  height: 12px;
+  margin-left: 5px;
+}
+
 .language-logo {
   width: 21px;
+  margin-right: 4px;
 }
 
 /* sezione 2 */
