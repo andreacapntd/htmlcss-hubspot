@@ -25,10 +25,10 @@ a {
 .column20 {
   float: left;
   width: 20%;
+  height: 80px;
   /* debug */
-  height: 70px;
-  background-color: orange;
-  border: 1px solid black;
+  /* background-color: orange;
+  border: 1px solid black; */
 }
 
 .column30 {
@@ -56,10 +56,10 @@ a {
 .column80 {
   float: left;
   width: 80%;
+  height: 80px;
   /* debug */
-  height: 70px;
-  background-color: orange;
-  border: 1px solid black;
+  /* background-color: orange; */
+  /* border: 1px solid black; */
 }
 
 .column100 {
@@ -81,13 +81,11 @@ header {
 /*sezione 1 */
 .nav-action {
   background-color: #f5f8fa;
+  border-bottom:1px solid #cbd6e2;
 }
 
+/* Navbar left */
 .nav-left ul li {
-  display: inline-block;
-}
-
-.nav-right ul li {
   display: inline-block;
 }
 
@@ -123,8 +121,13 @@ header {
   font-size: 20px;
 }
 
+/* Navbar right */
 .nav-right {
   text-align: right;
+}
+
+.nav-right ul li {
+  display: inline-block;
 }
 
 .fa-search {
@@ -162,6 +165,22 @@ header {
 .logo-nav {
   height: 70px;
   background-color: white;
+}
+
+#logo {
+  margin-top: 15px;
+}
+
+/* Navbar sezione 2 */
+
+.second ul li a {
+  color: black;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+#about {
+  margin-right: 0;
 }
 
 /* Main */
