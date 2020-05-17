@@ -190,6 +190,29 @@ header {
   background-size: cover;
 }
 
+h1 {
+  padding: 50px 0;
+  font-size: 49px;
+  width: 40%;
+}
+
+.jumbotron p {
+  width: 40%;
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+
+.big {
+  padding: 15px;
+}
+
+.jumbotron span {
+  display: block;
+  margin-top: 50px;
+  width: 40%;
+  font-size: 8px;
+}
+
 /* Main */
 
 main {
