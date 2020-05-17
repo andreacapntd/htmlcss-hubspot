@@ -168,7 +168,8 @@ header {
 }
 
 #logo {
-  margin-top: 15px;
+  margin-top: 23px;
+  margin-left: 5px;
 }
 
 /* Navbar sezione 2 */
@@ -181,6 +182,13 @@ header {
 
 #about {
   margin-right: 0;
+}
+
+/* Sezione 3 Header jumbotron */
+.jumbotron {
+  height: 736px;
+  background-image: url(img/jumbotron.png);
+  background-size: cover;
 }
 
 /* Main */
