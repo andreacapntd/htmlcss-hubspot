@@ -66,8 +66,8 @@ a {
   float: left;
   width: 100%;
   /* debug */
-  height: 100px;
-  background-color: yellow;
+  /* height: 100px;
+  background-color: yellow; */
 }
 
 /* Header */
@@ -217,9 +217,33 @@ h1 {
 
 main {
   /* debug */
-  min-height: 400px;
-  background-color: blue;
+  /* min-height: 400px;
+  background-color: blue; */
 }
+
+/* sezione 1 */
+.powerful {
+  background-color: #f5f8fa;
+}
+
+.powerful img {
+  margin: 30px 0 0px 427px;
+  height: 270px;
+}
+
+.powerful h2 {
+text-align: center;
+margin-bottom: 20px;
+font-size: 37px;
+}
+
+.powerful p {
+  text-align: center;
+  padding: 0 230px;
+  margin-bottom: 20px;
+}
+
+
 
 /* sezione 2 */
 
