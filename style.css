@@ -27,6 +27,13 @@ a {
   width: 20%;
 }
 
+.column25 {
+  float: left;
+  width: 25%;
+  /* debug */
+  height: 100px;
+}
+
 .column30 {
   float: left;
   width: 30%;
@@ -386,6 +393,26 @@ font-size: 37px;
   height: 500px;
   background-color: #39c4c4;
   margin-top: 15px;
+}
+
+.data h2 {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  padding: 25px;
+}
+
+.data p {
+  color: white;
+  font-size: 18px;
+  padding-right: 10px;
+  line-height: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.line2 {
+  border-top: 1px solid white;
 }
 
 /* sezione 5 */
