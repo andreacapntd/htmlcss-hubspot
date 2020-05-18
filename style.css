@@ -28,8 +28,8 @@ a {
   width: 30%;
   /* debug */
   /* height: 100px;
-  background-color: orange;
-  border: 1px solid black; */
+  background-color: orange; */
+  border: 1px solid black;
 }
 
 #middle {
@@ -238,6 +238,9 @@ font-size: 37px;
 
 
 /* sezione 2 */
+.popolar {
+  margin-left: 30px;
+}
 /* column left */
 .crm {
   background-color: #f5f8fa;
@@ -315,6 +318,19 @@ font-size: 37px;
 
 .hub {
   margin-top: 15px;
+}
+
+/* column left */
+.marketing img{
+  height: 90px;
+  margin-left: 140px;
+  margin-top: 15px;
+}
+
+.marketing h3{
+ text-align: center;
+ margin-top: 20px;
+ font-size: 25px;
 }
 
 /* sezione 4 */
