@@ -22,22 +22,14 @@ a {
   clear: both;
 }
 
-.column20 {
-  float: left;
-  width: 20%;
-  height: 80px;
-  /* debug */
-  /* background-color: orange;
-  border: 1px solid black; */
-}
 
 .column30 {
   float: left;
   width: 30%;
   /* debug */
-  height: 100px;
+  /* height: 100px;
   background-color: orange;
-  border: 1px solid black;
+  border: 1px solid black; */
 }
 
 #middle {
@@ -53,9 +45,9 @@ a {
   /* border: 1px solid black; */
 }
 
-.column80 {
+.column70 {
   float: left;
-  width: 80%;
+  width: 70%;
   height: 80px;
   /* debug */
   /* background-color: orange; */
@@ -246,6 +238,7 @@ font-size: 37px;
 
 
 /* sezione 2 */
+/* column left */
 .crm {
   background-color: #f5f8fa;
 }
@@ -258,16 +251,66 @@ font-size: 37px;
 
 .crm img {
   height: 100px;
-  margin: 45px 0 35px 70px;
+  margin: 65px 0 35px 90px;
 }
 
 .crm a {
-  margin-left: 80px;
+  margin-left: 100px;
 }
 
 .learn {
   padding: 15px 25px;
 }
+
+/* column right */
+.popolar h3 {
+  margin-top: 80px;
+  font-size: 25px;
+}
+
+.popolar p {
+  padding-right: 308px;
+  margin: 25px 0 20px;
+}
+
+.popolar h4 {
+  font-size: 18px;
+  display: inline-block;
+}
+
+.popolar hr {
+  display: inline-block;
+  width: 400px;
+  margin-left: 50px;
+  margin-bottom: 5px;
+}
+
+.popolar ul {
+  margin-top: 20px;
+}
+
+.popolar ul li {
+  display: inline-block;
+}
+
+.popolar ul li a {
+  color: black;
+  font-size: 17px;
+}
+
+ #insight {
+  margin-left: 0;
+}
+
+#deals, #task {
+  margin-left: 15px;
+}
+
+.fa-check-circle {
+  color: orange;
+  margin-right: 10px;
+}
+
 /* sezione 3 */
 
 .hub {
