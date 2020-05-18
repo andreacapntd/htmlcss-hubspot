@@ -411,9 +411,20 @@ font-size: 37px;
   margin-bottom: 30px;
 }
 
-.line2 {
-  border-top: 1px solid white;
+.item {
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
 }
+
+.item-x {
+  border-bottom: 1px solid white;
+}
+
+.item-y {
+  border-right: 1px solid white;
+}
+
+
 
 /* sezione 5 */
 
