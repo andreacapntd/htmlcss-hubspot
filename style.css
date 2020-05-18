@@ -22,6 +22,10 @@ a {
   clear: both;
 }
 
+.column20 {
+  float: left;
+  width: 20%;
+}
 
 .column30 {
   float: left;
@@ -29,7 +33,7 @@ a {
   /* debug */
   /* height: 100px;
   background-color: orange; */
-  border: 1px solid black;
+
 }
 
 #middle {
@@ -52,6 +56,11 @@ a {
   /* debug */
   /* background-color: orange; */
   /* border: 1px solid black; */
+}
+
+.column80 {
+  float: left;
+  width: 80%;
 }
 
 .column100 {
@@ -192,6 +201,7 @@ h1 {
   width: 40%;
   font-size: 15px;
   margin-bottom: 50px;
+  line-height: 20px;
 }
 
 .big {
@@ -233,6 +243,7 @@ font-size: 37px;
   text-align: center;
   padding: 0 230px;
   margin-bottom: 20px;
+  line-height: 20px;
 }
 
 
@@ -272,8 +283,9 @@ font-size: 37px;
 }
 
 .popolar p {
-  padding-right: 308px;
+  padding-right: 280px;
   margin: 25px 0 20px;
+  line-height: 25px;
 }
 
 .popolar h4 {
@@ -317,10 +329,17 @@ font-size: 37px;
 /* sezione 3 */
 
 .hub {
-  margin-top: 15px;
+  background-color: #f5f8fa;
+  padding-bottom: 50px;
 }
 
 /* column left */
+.marketing {
+  background-color: white;
+  box-shadow: 0 0 11px #eaf0f6;
+  margin-top: 20px;
+}
+
 .marketing img{
   height: 90px;
   margin-left: 140px;
@@ -331,6 +350,34 @@ font-size: 37px;
  text-align: center;
  margin-top: 20px;
  font-size: 25px;
+}
+
+.marketing p {
+  text-align: center;
+  line-height: 25px;
+  padding: 10px 55px;
+}
+
+.marketing hr {
+  margin: 50px 30px;
+}
+
+.marketing h4 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 22px;
+}
+
+.marketing ul {
+  list-style-type: none;
+  margin: 30px;
+  margin-bottom: 50px;
+}
+
+.marketing a {
+  margin-left: 125px;
+  display: inline-block;
+  margin-bottom: 15px;
 }
 
 /* sezione 4 */
