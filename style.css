@@ -542,14 +542,34 @@ font-size: 37px;
 
 .start {
   /* debug */
-  height: 250px;
+  height: 400px;
   background-color: white;
 }
 
 .start h3 {
-  
+  font-size: 30px;
+  margin: 30px 145px 35px 0;
 }
 
+.start p {
+  line-height: 20px;
+  margin: 0 147px 60px 0;
+}
+
+.start a {
+  display: inline-block;
+}
+
+.start span {
+  display: block;
+  font-size: 12px;
+  margin-top: 35px;
+}
+
+.start img {
+  height: 360px;
+  margin-left: 200px;
+}
 
 /* Footer */
 
