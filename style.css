@@ -31,7 +31,7 @@ a {
   float: left;
   width: 25%;
   /* debug */
-  height: 100px;
+  /* height: 100px; */
 }
 
 .column30 {
@@ -424,7 +424,39 @@ font-size: 37px;
   border-right: 1px solid white;
 }
 
+.user img {
+  margin-left: 125px;
+  margin-top: 20px;
+}
 
+.number {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0;
+  color: white;
+}
+
+.number-text {
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+
+.blogs img {
+  margin-top: 20px;
+  margin-left: 113px;
+}
+
+.academy img {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.inbound img {
+  margin-top: 20px;
+  margin-left: 96px;
+}
 
 /* sezione 5 */
 
