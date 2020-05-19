@@ -50,10 +50,6 @@ a {
 .column50 {
   float: left;
   width: 50%;
-  /* debug */
-  height: 70px;
-  /* background-color: yellow; */
-  /* border: 1px solid black; */
 }
 
 .column70 {
@@ -487,7 +483,6 @@ font-size: 37px;
 /* sezione 5 */
 
 .customers {
-  height: 130px;
   background-color: white;
 }
 
@@ -549,6 +544,10 @@ font-size: 37px;
   /* debug */
   height: 250px;
   background-color: white;
+}
+
+.start h3 {
+  
 }
 
 
