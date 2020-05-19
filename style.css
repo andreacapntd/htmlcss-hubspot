@@ -30,8 +30,6 @@ a {
 .column25 {
   float: left;
   width: 25%;
-  /* debug */
-  /* height: 100px; */
 }
 
 .column30 {
@@ -541,7 +539,6 @@ font-size: 37px;
 /* sezione 6 */
 
 .start {
-  /* debug */
   height: 400px;
   background-color: white;
 }
@@ -574,7 +571,20 @@ font-size: 37px;
 /* Footer */
 
 footer {
-  /* debug */
-  height: 300px;
-  background-color: green;
+  height: 500px;
+  background-color: #33475b;
+}
+
+.title-view {
+  color: white;
+  margin:30px 0;
+}
+
+.list-view {
+  list-style-type: none;
+  line-height: 30px;
+}
+
+.list-view li a {
+  color: white;
 }
