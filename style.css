@@ -390,7 +390,7 @@ font-size: 37px;
 /* sezione 4 */
 
 .data {
-  height: 500px;
+  height: 600px;
   background-color: #39c4c4;
   margin-top: 15px;
 }
@@ -408,7 +408,7 @@ font-size: 37px;
   padding-right: 10px;
   line-height: 30px;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .item {
@@ -456,6 +456,26 @@ font-size: 37px;
 .inbound img {
   margin-top: 20px;
   margin-left: 96px;
+}
+
+.connect img {
+  margin-top: 20px;
+  margin-left: 116px;
+}
+
+.world img {
+  margin-top: 20px;
+  margin-left: 132px;
+}
+
+.follower img {
+  margin-top: 20px;
+  margin-left: 132px;
+}
+
+.growth img {
+  margin-top: 20px;
+  margin-left: 103px;
 }
 
 /* sezione 5 */
