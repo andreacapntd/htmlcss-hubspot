@@ -35,10 +35,6 @@ a {
 .column30 {
   float: left;
   width: 30%;
-  /* debug */
-  /* height: 100px;
-  background-color: orange; */
-
 }
 
 #middle {
@@ -54,9 +50,6 @@ a {
   float: left;
   width: 70%;
   height: 80px;
-  /* debug */
-  /* background-color: orange; */
-  /* border: 1px solid black; */
 }
 
 .column75 {
@@ -72,17 +65,12 @@ a {
 .column100 {
   float: left;
   width: 100%;
-  /* debug */
-  /* height: 100px;
-  background-color: yellow; */
 }
 
 /* Header */
 
 header {
   min-height: 500px;
-  /* debug */
-  /* background-color: pink; */
 }
 
 /*sezione 1 */
@@ -168,6 +156,7 @@ header {
 
 /* sezione 2 */
 
+/* logo navbar */
 .logo-nav {
   height: 70px;
   background-color: white;
@@ -222,12 +211,6 @@ h1 {
 }
 
 /* Main */
-
-main {
-  /* debug */
-  /* min-height: 400px;
-  background-color: blue; */
-}
 
 /* sezione 1 */
 .powerful {
