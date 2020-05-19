@@ -65,6 +65,11 @@ a {
   /* border: 1px solid black; */
 }
 
+.column75 {
+  float: left;
+  width: 75%
+}
+
 .column80 {
   float: left;
   width: 80%;
@@ -482,9 +487,60 @@ font-size: 37px;
 /* sezione 5 */
 
 .customers {
-  /* debug */
   height: 130px;
   background-color: white;
+}
+
+.number-customers h3 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 45px;
+}
+
+.number-customers p {
+  text-align: center;
+  margin: 35px 50px;
+  line-height: 20px;
+}
+
+.logo-customers {
+  margin: 65px 0 0 200px;
+}
+
+.size-logo-customers {
+  height: 20px;
+  margin-right: 25px;
+}
+
+#g2-resize {
+  height: 30px;
+}
+
+#monkey-resize {
+  height: 40px;
+}
+
+.second-line {
+  margin-top: 30px;
+}
+
+#subaru-resize {
+  height: 45px;
+  margin-right: 60px;
+  margin-left: 18px;
+}
+
+#wistia-resize {
+  margin-bottom: 15px;
+  margin-right: 45px;
+}
+
+#classpass-resize {
+  height: 45px;
+}
+
+#ware-resize {
+  margin-bottom: 12px;
 }
 
 /* sezione 6 */
