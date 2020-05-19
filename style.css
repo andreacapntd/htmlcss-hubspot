@@ -588,3 +588,28 @@ footer {
 .list-view li a {
   color: white;
 }
+
+.button-support {
+  background-color: white;
+  padding: 6px 7px;
+  border-radius: 5px;
+  width: 60%;
+  margin-top: 20px;
+}
+
+.button-support a {
+  color: #33475b;
+}
+
+.social-media {
+  margin-top: 15px;
+}
+
+.social-media li {
+  display: inline-block;
+}
+
+.social-media li a {
+  color: white;
+  margin-right: 20px;
+}
