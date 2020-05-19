@@ -571,7 +571,7 @@ font-size: 37px;
 /* Footer */
 
 footer {
-  height: 500px;
+  height: 600px;
   background-color: #33475b;
 }
 
@@ -586,7 +586,7 @@ footer {
 }
 
 .list-view li a {
-  color: white;
+  color: #cbd6e2;
 }
 
 .button-support {
@@ -610,6 +610,49 @@ footer {
 }
 
 .social-media li a {
-  color: white;
+  color: #cbd6e2;
   margin-right: 20px;
+}
+
+.change-language {
+  margin-top: 60px;
+}
+
+.language-list {
+  text-align: center;
+  border-bottom: 1px solid #cbd6e2;
+}
+
+.language-list li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.language-list li a {
+  color: #cbd6e2;
+  font-size: 17px;
+}
+
+.logo-footer img {
+  margin-top: 40px;
+}
+
+.logo-footer p {
+  color: white;
+}
+
+.legal {
+  text-align: right;
+  margin-top: 40px;
+}
+
+.legal li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.legal li a {
+  color: #cbd6e2;
+  font-size: 20px;
 }
